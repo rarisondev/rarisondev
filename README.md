@@ -8,7 +8,6 @@
 [![gmail](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rarisonlucax)
  
 
- ![Rarison GitHub stats](https://github-readme-stats.vercel.app/api?username=rarisonl&show_icons=true&theme=dark)
  ![Rarison GitHub stats](https://github-readme-stats.vercel.app/api?username=rarisonl&show_icons=true&theme=dracula)
  
 
